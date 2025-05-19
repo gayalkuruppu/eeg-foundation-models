@@ -2,10 +2,10 @@
 
 # *2024*
 
-- **EEGformer: A transformer–based brain activity classification method using EEG signal** (2024)<br>
-*Frontiers in Neuroscience (2023)* <br>
-Zhijiang Wan, Manyu Li, Shichang Liu, Jiajin Huang, Hai Tan, Wenfeng Duan <br>
-[[Paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1148855/full)
+- **EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model** (2024)<br>
+*AAAI Spring Symposium (2024)* <br>
+Yuqi Chen, Kan Ren, Kaitao Song, Yansen Wang, Yifan Wang, Dongsheng Li, Lili Qiu <br>
+[[Paper]](https://openreview.net/forum?id=MXRy6bYBfB)
 
 - **Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI** (2024)<br>
 *ICLR (2024)* <br>

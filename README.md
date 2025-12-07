@@ -1,4 +1,17 @@
-# eeg-foundation-models
+# EEG Foundation Models: A Critical Review of Current Progress and Future Directions
+
+- **Full Paper:** [arXiv](https://arxiv.org/pdf/2507.11783)
+- **Workshop Paper:** [NeurIPS 2025 Brain and Body Foundation Models Workshop](https://openreview.net/pdf?id=Iu6qVgtgUD)
+
+---
+
+## Visual Summary
+
+<img src="summary.png" width="50%" alt="Summary Figure">
+
+---
+
+# EEG Foundation Models
 
 # *2024*
 
@@ -60,3 +73,17 @@ Daoze Zhang*, Zhizhang Yuan*, Yang Yang, Junru Chen, Jingjing Wang, Yafeng Li <b
 Chaoqi Yang, M Westover, Jimeng Sun <br>
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f6b30f3e2dd9cb53bbf2024402d02295-Paper-Conference.pdf)
 [[Code]](https://github.com/ycq091044/BIOT)
+
+
+
+## Citation
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@article{kuruppu2025eeg,
+  title={Eeg foundation models: A critical review of current progress and future directions},
+  author={Kuruppu, Gayal and Wagh, Neeraj and Varatharajah, Yogatheesan},
+  journal={arXiv preprint arXiv:2507.11783},
+  year={2025}
+}
+```

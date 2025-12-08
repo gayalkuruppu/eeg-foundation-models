@@ -1,7 +1,7 @@
 # EEG Foundation Models: A Critical Review of Current Progress and Future Directions
 
-- **Full Paper:** [arXiv](https://arxiv.org/pdf/2507.11783)
-- **Workshop Paper:** [NeurIPS 2025 Brain and Body Foundation Models Workshop](https://openreview.net/pdf?id=Iu6qVgtgUD)
+- **Full Paper:** [arXiv](https://arxiv.org/abs/2507.11783)
+- **Workshop Paper:** [NeurIPS 2025 Brain and Body Foundation Models Workshop](https://openreview.net/forum?id=Iu6qVgtgUD)
 
 ---
 

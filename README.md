@@ -5,7 +5,7 @@
 
 ---
 
-## Visual Summary
+## Visual Summary (As of September 30, 2024)
 
 <img src="summary.png" width="110%" alt="Summary Figure">
 
@@ -16,9 +16,9 @@
 # *2025*
 
 - **LUNA: Efficient and Topology-Agnostic Foundation Model for EEG Signal Analysis** (2025) <br>
-*Arxiv*<br>
+*NeurIPS (2025)*<br>
 Berkay Döner, Thorir Mar Ingolfsson, Luca Benini, Yawei Li <br>
-[[Paper]](https://arxiv.org/abs/2510.22257)
+[[Paper]](https://openreview.net/forum?id=uazfjnFL0G)
 [[Code]](https://github.com/pulp-bio/biofoundation)
 
 - **FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**(2025) <br>
@@ -44,74 +44,74 @@ Francesco Carzaniga, Michael Hersche, Abu Sebastian, Kaspar Schindler, Abbas Rah
 
 - **Ada-brain-bench** -->
 
-- **MIRepNet: A Pipeline and Foundation Model for EEG-Based Motor Imagery Classification** (2025) <br>
+- **MIRepNet: A Pipeline and Foundation Model for EEG-Based Motor Imagery Classification**  <br>
 *Arxiv*<br>
 Dingkun Liu, Zhu Chen, Jingwei Luo, Shijie Lian, Dongrui Wu <br>
 [[Paper]](https://arxiv.org/abs/2507.20254)
 [[Code]](https://github.com/staraink/MIRepNet)
 [[HF]](https://huggingface.co/starself/MIRepNet)
 
-- **M4CEA: A Knowledge-guided Foundation Model for Childhood Epilepsy Analysis** (2025) <br>
+- **M4CEA: A Knowledge-guided Foundation Model for Childhood Epilepsy Analysis** <br>
 *IEEE Journal of Biomedical and Health Informatics*<br>
 Yuanmeng Feng, Dinghan Hu, Tiejia Jiang, Feng Gao, Jiuwen Cao <br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11083595)
 [[Code]](https://github.com/Evigouse/M4CEA_Project)
 
-- **EEGMamba: An EEG foundation model with Mamba** (2025) <br>
+- **EEGMamba: An EEG foundation model with Mamba** <br>
 *Neural Networks*<br>
 Jiquan Wang, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Shijian Li, Gang Pan <br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025006963)
 [[Code]](https://github.com/wjq-learning/EEGMamba)
 
-- **CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding** (2025) <br>
+- **CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding** <br>
 *NeurIPS (2025)*<br>
 Yuchen Zhou, Jiamin Wu, Zichen Ren, Zhouheng Yao, Weiheng Lu, Kunyu Peng, Qihao Zheng, Chunfeng Song, Wanli Ouyang, Chao Gou <br>
 [[Paper]](https://openreview.net/forum?id=agcXjEHmyW)
 [[Code]](https://github.com/yuchen2199/CSBrain)
 
-- **DIVER-0 : A Fully Channel Equivariant EEG Foundation Model** (2025) <br>
-*Arxiv*<br>
+- **DIVER-0 : A Fully Channel Equivariant EEG Foundation Model** <br>
+*ICML Gen. Bio. Workshop (2025)*<br>
 Danny Dongyeop Han, Ahhyun Lucy Lee, Taeyang Lee, Yonghyeon Gwon, Sebin Lee, Seongjin Lee, David Keetae Park, Shinjae Yoo, Jiook Cha, Chun Kee Chung <br>
-[[Paper]](https://arxiv.org/abs/2507.14141)
+[[Paper]](https://openreview.net/pdf?id=QTfifcFEiE)
 
-- **CodeBrain: Towards Decoupled Interpretability and Multi-Scale Architecture for EEG Foundation Model** (2025) <br>
+- **CodeBrain: Towards Decoupled Interpretability and Multi-Scale Architecture for EEG Foundation Model** <br>
 *Arxiv*<br>
 Jingying Ma, Feng Wu, Qika Lin, Yucheng Xing, Chenyu Liu, Ziyu Jia, Mengling Feng <br>
 [[Paper]](https://arxiv.org/abs/2506.09110)
 
-- **EEG Foundation Models for BCI Learn DiverseFeatures of Electrophysiology** (2025) <br>
+- **EEG Foundation Models for BCI Learn Diverse Features of Electrophysiology**  <br>
 *Arxiv*<br>
 Mattson Ogg, Rahul Hingorani, Diego Luna, Griffin W. Milsap, William G. Coon, Clara A. Scholl<br>
 [[Paper]](https://arxiv.org/abs/2506.01867)
 
-- **Nested Deep Learning Model Towards A Foundation Model for Brain Signal Data** (2025)<br>
+- **Nested Deep Learning Model Towards A Foundation Model for Brain Signal Data** <br>
 *Arxiv*<br>
 Fangyi Wei, Jiajie Mo, Kai Zhang, Haipeng Shen, Srikantan Nagarajan, Fei Jiang<br>
 [[Paper]](https://arxiv.org/abs/2410.03191)
 
-- **ALFEE: Adaptive Large Foundation Model for EEG Representation** (2025)<br>
+- **ALFEE: Adaptive Large Foundation Model for EEG Representation** <br>
 *Arxiv*<br>
 Wei Xiong, Junming Lin, Jiangtong Li, Jie Li, Changjun Jiang<br>
 [[Paper]](https://arxiv.org/abs/2505.06291)
 [[Code - coming soon]](https://github.com/xw1216/ALFEE)
 
-- **CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding** (2025)<br>
+- **CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding** <br>
 *ICLR (2025)*<br>
 Jiquan Wang, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan<br>
 [[Paper]](https://openreview.net/forum?id=NPNUHgHF2w)
 [[Code]](https://github.com/wjq-learning/CBraMod)
 
-- **GEFM: Graph-Enhanced EEG Foundation Model** (2025)<br>
+- **GEFM: Graph-Enhanced EEG Foundation Model** <br>
 *Arxiv*<br>
 Limin Wang, Toyotaro Suzumura, Hiroki Kanezashi<br>
 [[Paper]](https://arxiv.org/abs/2411.19507)
 
-- **Large Cognition Model: Towards Pretrained EEG Foundation Model** (2025)<br>
+- **Large Cognition Model: Towards Pretrained EEG Foundation Model** <br>
 *Arxiv*<br>
 Chi-Sheng Chen, Ying-Jung Chen, Aidan Hung-Wen Tsai<br>
 [[Paper]](https://arxiv.org/abs/2502.17464)
 
-- **LEAD: Large Foundation Model for EEG-Based Alzheimer's Disease Detection** (2025)<br>
+- **LEAD: Large Foundation Model for EEG-Based Alzheimer's Disease Detection** <br>
 *Arxiv*<br>
 Yihe Wang, Nan Huang, Nadia Mammone, Marco Cecchi, Xiang Zhang<br>
 [[Paper]](https://arxiv.org/abs/2502.01678)
@@ -119,64 +119,65 @@ Yihe Wang, Nan Huang, Nadia Mammone, Marco Cecchi, Xiang Zhang<br>
 
 # *2024*
 
-- **EEGPT: Pretrained Transformer for Universal and Reliable Representation of EEG Signals** (2024)<br>
+- **EEGPT: Pretrained Transformer for Universal and Reliable Representation of EEG Signals** <br>
 *NeurIPS (2024)* <br>
+Guagnyu Wang, Wenchao Liu, Yuhong He, Cong Xu, Lin Ma, Haifeng Li<br>
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4540d267eeec4e5dbd9dae9448f0b739-Abstract-Conference.html)
 [[Code]](https://github.com/BINE022/EEGPT)
 
-- **BrainWave: A Brain Signal Foundation Model for Clinical Applications** (2024)<br>
+- **BrainWave: A Brain Signal Foundation Model for Clinical Applications** <br>
 *Arxiv* <br>
 Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, Chenhao Tan, Yang Yang <br>
 [[Paper]](https://arxiv.org/pdf/2402.10251)
 
-- **FoME: A Foundation Model for EEG using Adaptive Temporal-Lateral Attention Scaling** (2024)<br>
+- **FoME: A Foundation Model for EEG using Adaptive Temporal-Lateral Attention Scaling** <br>
 *Arxiv* <br>
 Enze Shi, Kui Zhao, Qilong Yuan, Jiaqi Wang, Huawen Hu, Sigang Yu, Shu Zhang <br>
 [[Paper]](https://arxiv.org/pdf/2409.12454)
 
-- **NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals** (2024)<br>
+- **NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals** <br>
 *ICLR (2025)* <br>
 Wei-Bang Jiang, Yansen Wang, Bao-Liang Lu, Dongsheng Li <br>
 [[Paper]](https://arxiv.org/pdf/2409.00101)
 [[Code]](https://github.com/935963004/NeuroLM)
 
-- **Mentality: A Mamba-based Approach towards Foundation Models for EEG** (2024)<br>
+- **Mentality: A Mamba-based Approach towards Foundation Models for EEG** <br>
 *ICLR Workshop TS4H (2024)* <br>
 Saarang Panchavati, Corey Arnold,  William Speier <br>
 [[Paper]](https://openreview.net/pdf?id=O6T38rRiFp)
 
-- **Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI** (2024)<br>
+- **Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI** <br>
 *ICLR (2024)* <br>
 Wei-Bang Jiang, Li-Ming Zhao,  & Bao-Liang Lu <br>
 [[Paper]](https://arxiv.org/pdf/2405.18765)
 [[Code]](https://github.com/935963004/LaBraM)
 
-- **EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model** (2024)<br>
+- **EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model** <br>
 *AAAI Spring Symposium (2024)* <br>
 Yuqi Chen, Kan Ren, Kaitao Song, Yansen Wang, Yifan Wang, Dongsheng Li, Lili Qiu <br>
 [[Paper]](https://openreview.net/forum?id=MXRy6bYBfB)
 
 # *2023*
 
-- **BIOT: Self-supervised representation learning for intracranial recordings** (2023)<br>
+- **BIOT: Self-supervised representation learning for intracranial recordings**<br>
 *ICLR (2023)* <br>
 Chaoqi Yang, M Westover, Jimeng Sun <br>
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f6b30f3e2dd9cb53bbf2024402d02295-Paper-Conference.pdf)
 [[Code]](https://github.com/ycq091044/BIOT)
 
-- **Brant: Foundation Model for Intracranial Neural Signal** (2023)<br>
+- **Brant: Foundation Model for Intracranial Neural Signal** <br>
 *NeurIPS (2023)* <br>
 Daoze Zhang*, Zhizhang Yuan*, Yang Yang, Junru Chen, Jingjing Wang, Yafeng Li <br>
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/535915d26859036410b0533804cee788-Paper-Conference.pdf)
 [[Code]](https://huggingface.co/Daoze/Brant/tree/main)
 
-- **Neuro-GPT: Towards A Foundation Model for EEG** (2023)<br>
+- **Neuro-GPT: Towards A Foundation Model for EEG** <br>
 *IEEE - ISBI 2024* <br>
 Wenhui Cui, Woojae Jeong, Philipp Thölke, Takfarinas Medani, Karim Jerbi, Anand A. Joshi, Richard M. Leahy <br>
 [[Paper]](https://arxiv.org/pdf/2311.03764)
 [[HF]](https://github.com/wenhui0206/NeuroGPT)
 
-- **BrainBERT: Self-supervised representation learning for intracranial recordings** (2023)<br>
+- **BrainBERT: Self-supervised representation learning for intracranial recordings**<br>
 *ICLR (2023)* <br>
 Christopher Wang, Vighnesh Subramaniam, Adam Uri Yaari, Gabriel Kreiman, Boris Katz, Ignacio Cases, Andrei Barbu <br>
 [[Paper]](https://arxiv.org/abs/2302.14367)

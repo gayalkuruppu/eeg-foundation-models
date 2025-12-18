@@ -15,30 +15,31 @@
 
 # *2025*
 
-- **LUNA: Efficient and Topology-Agnostic Foundation Model for EEG Signal Analysis** (2025) <br>
+- **LUNA: Efficient and Topology-Agnostic Foundation Model for EEG Signal Analysis** <br>
 *NeurIPS (2025)*<br>
 Berkay Döner, Thorir Mar Ingolfsson, Luca Benini, Yawei Li <br>
 [[Paper]](https://openreview.net/forum?id=uazfjnFL0G)
 [[Code]](https://github.com/pulp-bio/biofoundation)
+[[HF]](https://huggingface.co/thorir/LUNA)
 
-- **FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**(2025) <br>
+- **FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model** <br>
 *EMBC (2025)*<br>
 Anna Tegon, Thorir Mar Ingolfsson, Xiaying Wang, Luca Benini, Yawei Li <br>
 [[Paper]](https://arxiv.org/abs/2502.06438v2)
 [[Code]](https://github.com/pulp-bio/BioFoundation)
 [[HF]](https://huggingface.co/thorir/FEMBA)
 
-- **LaBraM++: Advancing Brainwave Modeling with a Codebook-Based Foundation Model**(2025) <br>
+- **LaBraM++: Advancing Brainwave Modeling with a Codebook-Based Foundation Model** <br>
 *Arxiv*<br>
 Konstantinos Barmpas, Na Lee, Yannis Panagakis, Dimitrios A. Adamos, Nikolaos Laskaris, Stefanos Zafeiriou <br>
 [[Paper]](https://arxiv.org/abs/2505.16724)
 
-- **MVPFormer: A foundation model with multi-variate parallel attention to generate neuronal activity** (2025) <br>
+- **MVPFormer: A foundation model with multi-variate parallel attention to generate neuronal activity** <br>
 *Arxiv*<br>
 Francesco Carzaniga, Michael Hersche, Abu Sebastian, Kaspar Schindler, Abbas Rahimi <br>
 [[Paper]](https://arxiv.org/abs/2506.20354)
 [[Code]](https://github.com/IBM/multi-variate-parallel-transformer)
-[[HF]](https://huggingface.co/datasets/NeuroTec/SWEC_iEEG_Dataset)
+[[HF-Dataset]](https://huggingface.co/datasets/NeuroTec/SWEC_iEEG_Dataset)
 
 <!-- - **EEG-FM-Bench**
 
@@ -62,6 +63,7 @@ Yuanmeng Feng, Dinghan Hu, Tiejia Jiang, Feng Gao, Jiuwen Cao <br>
 Jiquan Wang, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Shijian Li, Gang Pan <br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025006963)
 [[Code]](https://github.com/wjq-learning/EEGMamba)
+[[HF]](https://huggingface.co/weighting666/EEGMamba)
 
 - **CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding** <br>
 *NeurIPS (2025)*<br>
@@ -100,6 +102,7 @@ Wei Xiong, Junming Lin, Jiangtong Li, Jie Li, Changjun Jiang<br>
 Jiquan Wang, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan<br>
 [[Paper]](https://openreview.net/forum?id=NPNUHgHF2w)
 [[Code]](https://github.com/wjq-learning/CBraMod)
+[[HF]](https://huggingface.co/weighting666/CBraMod)
 
 - **GEFM: Graph-Enhanced EEG Foundation Model** <br>
 *Arxiv*<br>
@@ -140,6 +143,7 @@ Enze Shi, Kui Zhao, Qilong Yuan, Jiaqi Wang, Huawen Hu, Sigang Yu, Shu Zhang <br
 Wei-Bang Jiang, Yansen Wang, Bao-Liang Lu, Dongsheng Li <br>
 [[Paper]](https://arxiv.org/pdf/2409.00101)
 [[Code]](https://github.com/935963004/NeuroLM)
+[[HF]](https://huggingface.co/Weibang/NeuroLM)
 
 - **Mentality: A Mamba-based Approach towards Foundation Models for EEG** <br>
 *ICLR Workshop TS4H (2024)* <br>
@@ -169,13 +173,13 @@ Chaoqi Yang, M Westover, Jimeng Sun <br>
 *NeurIPS (2023)* <br>
 Daoze Zhang*, Zhizhang Yuan*, Yang Yang, Junru Chen, Jingjing Wang, Yafeng Li <br>
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/535915d26859036410b0533804cee788-Paper-Conference.pdf)
-[[Code]](https://huggingface.co/Daoze/Brant/tree/main)
+[[HF]](https://huggingface.co/Daoze/Brant/tree/main)
 
 - **Neuro-GPT: Towards A Foundation Model for EEG** <br>
 *IEEE - ISBI 2024* <br>
 Wenhui Cui, Woojae Jeong, Philipp Thölke, Takfarinas Medani, Karim Jerbi, Anand A. Joshi, Richard M. Leahy <br>
 [[Paper]](https://arxiv.org/pdf/2311.03764)
-[[HF]](https://github.com/wenhui0206/NeuroGPT)
+[[Code]](https://github.com/wenhui0206/NeuroGPT)
 
 - **BrainBERT: Self-supervised representation learning for intracranial recordings**<br>
 *ICLR (2023)* <br>

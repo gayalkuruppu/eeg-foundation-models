@@ -193,8 +193,8 @@ If you find our work useful in your research, please consider citing:
 ```bibtex
 @article{kuruppu2025eeg,
   title={Eeg foundation models: A critical review of current progress and future directions},
-  author={Kuruppu, Gayal and Wagh, Neeraj and Varatharajah, Yogatheesan},
-  journal={arXiv preprint arXiv:2507.11783},
+  author={Kuruppu, Gayal and Wagh, Neeraj and Kremen, Vaclav and Varatharajah, Yogatheesan},
+  journal={Journal of Neural Engineering},
   year={2025}
 }
 ```
